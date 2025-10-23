@@ -49,3 +49,6 @@ Love the bot? Wanna fuel more WAGMI vibes? Drop some crypto love to keep the cha
 - **Binance UID**:`899350787`
 
 Every bit helps me grind harder and keep this bot stacking bags! 😎
+
+## 🪪 License
+MIT License © 2025 
