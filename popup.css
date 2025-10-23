@@ -1,0 +1,9 @@
+.popup { width:360px; padding:12px; font-family:Inter, Arial, sans-serif; color:#222; }
+h1 { margin:0 0 8px 0; font-size:1.1rem; }
+.row { display:flex; gap:8px; margin-bottom:8px; }
+input { flex:1; padding:6px; border-radius:6px; border:1px solid #ccc; }
+button { padding:6px 10px; border-radius:6px; border:none; background:#0b74de; color:#fff; cursor:pointer; }
+.result { margin-top:12px; background:#f7f9fb; padding:8px; border-radius:6px; max-height:220px; overflow:auto; }
+.status { font-size:0.9rem; margin-bottom:8px; color:#444; }
+.focus-btn, .stop-btn { background:#1f8a2f; }
+.stop-btn { background:#c0392b; }
